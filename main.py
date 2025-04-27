@@ -7,8 +7,11 @@ def assistant_loop():
     query = listen_to_user()
     if query:
         task = understand_query(query)
-        response = execute_task(task)
-        speak(response)
+        response = execute_task(task, query)
+        if response == "I'm not sure how to do that yet.":
+            speak("Sorry, I don't know how to help with that yet. Can you try again?")
+        else:
+            speak(response)
 
 if __name__ == "__main__":
     while True:
