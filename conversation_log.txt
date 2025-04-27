@@ -25,3 +25,194 @@ Assistant: What's black and sits at the top of a stairwell? ... A paraplegic aft
 User: tell me a joke
 Assistant: Why should you never talk to pi? ... Because it will go on forever.
 
+User: what is the weather
+Assistant: I'm not sure how to do that yet.
+
+User: what is the weather today
+Assistant: I'm not sure how to do that yet.
+
+User: what is the weather
+Assistant: I'm not sure how to do that yet.
+
+User: set a
+Assistant: I'm not sure how to do that yet.
+
+User: what is the weather today
+Assistant: I'm not sure how to do that yet.
+
+User: weather today
+Assistant: I'm not sure how to do that yet.
+
+User: ab man chuda raha hai bhai
+Assistant: I'm not sure how to do that yet.
+
+User: what is the weather
+Assistant: The temperature in Delhi is 34.05°C with haze.
+
+User: tell me the latest news
+Assistant: No news found.
+
+User: tell me a joke
+Assistant: My little daughter came to me all excited, saying "Daddy! Daddy! Guess how old I'll be in June!"
+"Oh I don't know princess, why don't you tell me?" I said. She gave me a huge smile and held up four fingers.
+It's now three hours later, police have joined in and she still won't say where she got them.
+
+User: what is the weather today
+Assistant: The temperature in Delhi is 33.05°C with haze.
+
+User: what is the weather today
+Assistant: The temperature in Delhi is 34.05°C with haze.
+
+User: what is the weather today
+Assistant: The temperature in Delhi is 34.05°C with haze.
+
+User: what is the latest
+Assistant: The temperature in Delhi is 33.05°C with haze.
+
+User: turn on google
+Assistant: No news found.
+
+User: open chrome
+Assistant: No news found.
+
+User: open google
+Assistant: No news found.
+
+User: search google
+Assistant: No news found.
+
+User: search google
+Assistant: No news found.
+
+User: google search pand
+Assistant: No news found.
+
+User: google search baby pandas
+Assistant: No news found.
+
+User: what is the weather
+Assistant: The temperature in Delhi is 33.05°C with haze.
+
+User: open music app
+Assistant: No news found.
+
+User: open google
+Assistant: Opening Google.
+
+User: open music
+Assistant: Opening music.
+
+User: give me latest news
+Assistant: No news found.
+
+User: tell me a joke
+Assistant: How did you make your friend rage? ... I implemented a greek question mark in his JavaScript code.
+
+User: google search cute pandas
+Assistant: Opening Google.
+
+User: google search cute pand
+Assistant: Opening Google.
+
+User: google search cute pand
+Assistant: Opening Google.
+
+User: search cute pandas
+Assistant: Searching for cute pandas.
+
+User: open music and play the first song
+Assistant: The temperature in Delhi is 32.05°C with haze.
+
+User: open music
+Assistant: Opening music.
+
+User: open chat
+Assistant: Opening chat.
+
+User: open notion calendar
+Assistant: Opening notion calendar.
+
+User: tell me the latest news
+Assistant: No news found.
+
+User: tell me the latest
+Assistant: The temperature in Delhi is 32.05°C with haze.
+
+User: tell me the latest news about sports
+Assistant: No latest news found right now.
+
+User: latest news
+Assistant: No latest news found right now.
+
+User: open google
+Assistant: Opening Google.
+
+User: search cute pand
+Assistant: Searching for cute pand.
+
+User: open music
+Assistant: Opening music.
+
+User: what is the weather
+Assistant: The temperature in Delhi is 32.05°C with haze.
+
+User: what is the temperature
+Assistant: The temperature in Delhi is 32.05°C with haze.
+
+User: mumbai temperature
+Assistant: No latest news found right now.
+
+User: tell me news about
+Assistant: What happened to the cannibal who showed up late to Halloween dinner? ... They gave him the cold shoulder.
+
+User: tell me latest
+Assistant: Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
+
+User: what are the latest
+Assistant: No latest news found right now.
+
+User: tell me the latest news
+Assistant: No news found.
+
+User: what is the temperature
+Assistant: The temperature in Delhi is 32.05°C with haze.
+
+User: tell me the latest news about sports
+Assistant: No top headlines available at the moment.
+
+User: tell me news
+Assistant: I didn't vaccinate my 10 kids and the one that survived is fine!
+
+User: tell me news
+Assistant: Why does no one like SQLrillex? ... He keeps dropping the database.
+
+User: tell me the latest
+Assistant: The temperature in Delhi is 32.05°C with haze.
+
+User: tell me news about sports
+Assistant: What's the difference between an in-law and an outlaw? ... An outlaw is wanted.
+
+User: tell me news
+Assistant: What do you call a Jewish Pokemon Trainer? ... Ash.
+
+User: fetch me
+Assistant: I'm not sure how to do that yet.
+
+User: fetch sports news
+Assistant: Here are the latest sports news headlines: Thompson game-time decision for Capitals in Game 4 against Canadiens from NHL.com. Liverpool win Premier League title to equal Man Utd's record from Sky News. Did Shedeur Sanders and the NFL Draft finally break ESPN’s Mel Kiper Jr.? Roundtable from The New York Times
+
+User: tell me india news
+Assistant: Why is every gender equality officer female? ... Because it's cheaper.
+
+User: fetch me news from india
+Assistant: Here are the top news headlines: Thompson game-time decision for Capitals in Game 4 against Canadiens from NHL.com. Liverpool win Premier League title in Arne Slot’s debut season from The New York Times. Studies Link Lifestyle, Exercise and Yoga to Improved Urologic Health and Cancer Outcomes from The Manila Times
+
+User: fetch me business news
+Assistant: Here are the latest business news headlines: Revolution Medicines Presents Initial Data from Zoldonrasib from GlobeNewswire. Did Shedeur Sanders and the NFL Draft finally break ESPN’s Mel Kiper Jr.? Roundtable from The New York Times. Film Scores $45 Million in Massive Second Weekend from Variety
+
+User: mumbai's temperature
+Assistant: Here are the top news headlines: Thompson game-time decision for Capitals in Game 4 against Canadiens from NHL.com. Liverpool win Premier League title in Arne Slot’s debut season from The New York Times. Studies Link Lifestyle, Exercise and Yoga to Improved Urologic Health and Cancer Outcomes from The Manila Times
+
