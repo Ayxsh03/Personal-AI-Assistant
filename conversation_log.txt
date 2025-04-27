@@ -10,3 +10,18 @@ Assistant: Why should you never talk to pi? ... Because it will go on forever.
 User: tell me a joke
 Assistant: Why are cats so good at video games? ... They have nine lives.
 
+User: what is the weather today
+Assistant: The temperature in Delhi is 36.05°C with haze.
+
+User: tell me a joke
+Assistant: Why did Santa's helper see the doctor? ... Because he had a low "elf" esteem!
+
+User: what is the weather today
+Assistant: The temperature in Delhi is 34.05°C with haze.
+
+User: jabda
+Assistant: What's black and sits at the top of a stairwell? ... A paraplegic after a house fire.
+
+User: tell me a joke
+Assistant: Why should you never talk to pi? ... Because it will go on forever.
+

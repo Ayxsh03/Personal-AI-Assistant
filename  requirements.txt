@@ -1,3 +1,5 @@
 speechrecognition
 pyttsx3
 requests
+scikit-learn
+joblib

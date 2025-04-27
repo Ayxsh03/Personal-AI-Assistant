@@ -1,15 +1,28 @@
 import re
+import joblib
+
+# Load saved model and vectorizer
+model = joblib.load("model/intent_model.pkl")
+vectorizer = joblib.load("model/intent_vectorizer.pkl")
 
 def understand_query(query):
-    if "weather" in query or "temperature" in query:
-        city = extract_city_from_query(query)
-        return "fetch_weather", city
-    elif "news" in query or "headlines" in query:
-        return "fetch_news", None
-    elif "joke" in query or "laugh" in query:
-        return "tell_joke", None
-    else:
+    try:
+        query_vector = vectorizer.transform([query])
+        intent = model.predict(query_vector)[0]
+        return map_intent_to_task(intent), None
+    except Exception as e:
+        print("Error predicting intent:", e)
         return "unknown", None
+
+def map_intent_to_task(intent):
+    if intent == "weather":
+        return "fetch_weather"
+    elif intent == "news":
+        return "fetch_news"
+    elif intent == "joke":
+        return "tell_joke"
+    else:
+        return "unknown"
 
 def extract_city_from_query(query):
     words = query.split()
