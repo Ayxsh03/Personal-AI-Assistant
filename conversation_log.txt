@@ -1,0 +1,12 @@
+User: what is the weather today
+Assistant: The temperature in Delhi is 38.05°C with haze.
+
+User: what is the latest news
+Assistant: No news found.
+
+User: tell me a joke
+Assistant: Why should you never talk to pi? ... Because it will go on forever.
+
+User: tell me a joke
+Assistant: Why are cats so good at video games? ... They have nine lives.
+
