@@ -1,9 +1,13 @@
-# Personal AI Assistant
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Mac%20%7C%20Windows-lightgrey.svg)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202025-blueviolet.svg)
+# 🦾Personal AI Assistant
 
 An intelligent voice-based personal assistant that can:
 - Listen to your voice commands
 - Predict your intent using Machine Learning
-- Fetch latest news headlines
+- Fetch the latest news headlines
 - Fetch weather information
 - Tell jokes
 - Open apps or websites
@@ -29,6 +33,25 @@ Built with Python 🐍 | Speech Recognition | Machine Learning | APIs | Text-to-
 - 🛠️ **Modular Code**: Easy to add more skills and APIs!
 
 ---
+
+## 🎯 Example Commands
+
+Here are some voice commands you can try with the Assistant:
+
+| 🗣️ You Say | 🤖 Assistant Action |
+|:---|:---|
+| "Tell me the latest news" | Fetches and speaks today's top headlines |
+| "Show me sports news" | Fetches and speaks top sports news |
+| "What's the weather in Delhi?" | Tells the weather update for Delhi |
+| "Will it rain today?" | Gives current weather forecast |
+| "Tell me a joke" | Speaks a random joke to make you laugh |
+| "Open Google" | Opens Google.com in your web browser |
+| "Open YouTube" | Opens YouTube.com in your web browser |
+| "Open Spotify" | Launches the Spotify application |
+| "Search Google for best AI projects" | Performs a Google search for 'best AI projects' |
+| "Remind me to drink water" | (Planned) Create a future reminder |
+| "Play my favourite song" | (Planned) Play music from your local system |
+
 
 ## ⚙️ Setup Instructions
 
