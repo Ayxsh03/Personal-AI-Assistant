@@ -80,3 +80,33 @@ cd Personal-AI-Assistant
    ```bash
    python main.py
    ```
+
+## 🗂️Folder Structure
+```bash
+Personal-AI-Assistant/
+│
+├── app/
+│   ├── __init__.py
+│   ├── main.py                  
+│   ├── assistant_core.py         
+│   ├── command_processor.py      
+│   ├── action_handler.py         
+│   ├── text_to_speech.py         
+│   ├── speech_to_text.py        
+│
+│   ├── utils/
+│   │   ├── __init__.py
+│   │   ├── weather_api.py   
+│   │   ├── news_api.py          
+│   │   ├── jokes_api.py        
+│   │   └── logger.py              
+│
+│   ├── model/
+│   │   ├── __init__.py
+│   │   ├── intent_model.pkl       
+│   │   ├── intent_vectorizer.pkl  
+│
+├── requirements.txt
+├── README.md
+└── LICENSE (optional)
+   ```
