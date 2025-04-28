@@ -216,3 +216,33 @@ Assistant: Here are the latest business news headlines: Revolution Medicines Pre
 User: mumbai's temperature
 Assistant: Here are the top news headlines: Thompson game-time decision for Capitals in Game 4 against Canadiens from NHL.com. Liverpool win Premier League title in Arne Slot’s debut season from The New York Times. Studies Link Lifestyle, Exercise and Yoga to Improved Urologic Health and Cancer Outcomes from The Manila Times
 
+User: tell me a joke
+Assistant: What do you call a cop's penis after he's done masturbating? ... Pulled pork.
+
+User: tell me a joke
+Assistant: What do Japanese cannibals eat? ... Raw men.
+
+User: what is the weather right now
+Assistant: The temperature in Delhi is 36.05°C with haze.
+
+User: open music
+Assistant: Opening music.
+
+User: open music
+Assistant: Opening music.
+
+User: search cute
+Assistant: Searching for cute.
+
+User: open
+Assistant: Opening default_app.
+
+User: open music
+Assistant: Opening music.
+
+User: what is the weather
+Assistant: The temperature in Delhi is 36.05°C with haze.
+
+User: search cute pandas
+Assistant: Searching for cute pandas.
+
