@@ -110,3 +110,26 @@ Personal-AI-Assistant/
 ├── README.md
 └── LICENSE (optional)
    ```
+
+## 📈Assistant Flow Diagram
+```bash
+User (Mic Input)
+      ↓
+Speech-to-Text (speech_recognition)
+      ↓
+User Query (text)
+      ↓
+ML Model (intent_model.pkl)
+      ↓
+Predicted Intent 
+      ↓
+Action Handler
+      ↓ 
+Executes Query OR Fetches API
+      ↓
+Text Response
+      ↓
+Text-to-Speech (pyttsx3)
+      ↓
+Assistant speaks response
+```
